@@ -1,4 +1,5 @@
 # Football
+```mermaid
 flowchart TD
     A([Start Application]) --> B{Are you at least 18 years old?}
     B -- No --> Z([Not Eligible])
